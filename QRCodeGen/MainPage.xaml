@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:QRCodeGen"
+             x:Class="QRCodeGen.MainPage">
+
+    <StackLayout x:Name="iu">
+        <!-- Place new controls here -->
+        <Button x:Name="scan_button" Clicked="Scan_button_Clicked" Text="Scan"></Button>
+        <Label x:Name="Res"  Text=" Result"></Label>
+            
+        <Button x:Name="gen" Text="Gen" Clicked="Gen_Clicked"></Button>
+       <Image x:Name="New" HeightRequest="100" WidthRequest="100" BackgroundColor="Azure" MinimumHeightRequest="50" MinimumWidthRequest="50"></Image>
+    </StackLayout>
+
+</ContentPage>

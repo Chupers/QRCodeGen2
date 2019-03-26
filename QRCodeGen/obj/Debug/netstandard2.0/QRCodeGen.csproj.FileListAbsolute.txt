@@ -1,0 +1,12 @@
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\bin\Debug\netstandard2.0\QRCodeGen.deps.json
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\bin\Debug\netstandard2.0\QRCodeGen.dll
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\bin\Debug\netstandard2.0\QRCodeGen.pdb
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\QRCodeGen.csproj.CoreCompileInputs.cache
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\QRCodeGen.AssemblyInfoInputs.cache
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\QRCodeGen.AssemblyInfo.cs
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\QRCodeGen.dll
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\QRCodeGen.pdb
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\zhenu\source\repos\QRCodeGen\QRCodeGen\QRCodeGen\obj\Debug\netstandard2.0\QRCodeGen.csprojAssemblyReference.cache
